@@ -1,0 +1,12 @@
+javac -cp ".;mysql-connector-j-9.3.0.jar" Server.java Headquarter.java Camp.java
+
+
+java -cp ".;mysql-connector-j-9.3.0.jar" Server
+
+
+
+java -cp ".;mysql-connector-j-9.3.0.jar" Headquarter
+
+
+
+java -cp ".;mysql-connector-j-9.3.0.jar" Camp
